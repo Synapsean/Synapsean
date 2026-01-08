@@ -5,8 +5,8 @@ I bridge the gap between biological experimentation and computational insight. M
 
 - **Domain Expertise:** Toxicology, Pharmacometrics, High-dimensional Omics data.
 - **Tech Stack:**
-- **Languages:** Python, R, SQL
-- **Tools:** Shiny, Streamlit, Git, Docker, Tidyverse, Scikit-learn
+  - **Languages:** Python, R, SQL
+  - **Tools:** Shiny, Streamlit, Git, Docker, Tidyverse, Scikit-learn
 
 ---
 
