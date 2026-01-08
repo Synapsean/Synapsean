@@ -1,16 +1,16 @@
-### Hi there, I'm Seán Quinlan (Synapsean) 👋
+### Hi there, I'm Seán
 **Ph.D. Data Scientist | Pharmacologist | R & Python Developer**
 
 I bridge the gap between biological experimentation and computational insight. My work focuses on building reproducible pipelines, interactive tools, and predictive models for healthcare and life sciences.
 
-- 🔬 **Domain Expertise:** Toxicology, Pharmacometrics, High-dimensional Omics data.
-- 🛠 **Tech Stack:**
-  - **Languages:** Python, R, SQL
-  - **Tools:** Shiny, Streamlit, Git, Docker, Tidyverse, Scikit-learn
+- **Domain Expertise:** Toxicology, Pharmacometrics, High-dimensional Omics data.
+- **Tech Stack:**
+- **Languages:** Python, R, SQL
+- **Tools:** Shiny, Streamlit, Git, Docker, Tidyverse, Scikit-learn
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 #### 1. [End-to-End Stroke Risk Predictor](https://stroke-prediction-app-fun.streamlit.app/)
 *A Machine Learning application to stratify patient stroke risk based on clinical biomarkers.*
